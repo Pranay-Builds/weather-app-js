@@ -1,0 +1,1 @@
+This is my 2 month old weather app project in JS which I made after watching BroCode's JS tutorial.
